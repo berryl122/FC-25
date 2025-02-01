@@ -1,0 +1,33 @@
+body{
+    background: lightslategray;
+    font-family: sans-serif;
+    margin: 0;
+}
+
+
+header{
+    padding: 20px;
+    background:lightseagreen ;
+    text-align: center;
+}
+
+main{
+    padding: 0 10%;
+    
+}
+
+
+.menu-link{
+    text-decoration: none;
+    color: black;
+    background-color: lightslategray;
+    padding: 10px;
+    border-radius: 10px;
+    margin-right: 10px;
+}
+
+
+footer{
+    background-color:lightseagreen  ;
+}
+
